@@ -45,7 +45,7 @@ banner = '''
 
             Name   : Devploit for Python 3.7       
             Version: 3.1                          
-            Author : Shafi https://shafis.in        
+            Author : Shafi - https://shafis.in        
             Github : https://github.com/SHAFIT     
 '''
 print (banner)
