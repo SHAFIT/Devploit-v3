@@ -6,6 +6,10 @@ Sytanx may change if you try using it with other versions of python.
 
 Required libraries : urllib, urllib.request, sys, os, json, datetime, time
 
+About:
+
+This is collection of API requests which are publically available with limited usage policy. 
+
 usage: 
 
 Clone https://github.com/SHAFIT/Devploit-v3.git
